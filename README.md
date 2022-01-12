@@ -54,5 +54,5 @@ I learn with this project, use the JS top make some animations on the page.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/RichterGui)
+- Frontend Mentor - [@RichterGui](https://www.frontendmentor.io/profile/RichterGui)
 
